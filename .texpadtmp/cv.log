@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.10.11)  6 JUN 2023 13:02
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.10.11)  12 JUN 2023 14:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -763,31 +763,31 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/b/n' will be
 (Font)              scaled to size 10.0pt on input line 12.
 ) (./cv/projects.tex
-Overfull \hbox (8.53548pt too wide) in paragraph at lines 12--13
- [][] 
+Overfull \hbox (10.30316pt too wide) in paragraph at lines 14--15
+[][] 
  []
 
 
-Overfull \hbox (8.53548pt too wide) in paragraph at lines 25--26
- [][] 
+Overfull \hbox (10.30316pt too wide) in paragraph at lines 27--28
+[][] 
  []
 
 
-Overfull \hbox (8.53548pt too wide) in paragraph at lines 38--39
- [][] 
+Overfull \hbox (10.30316pt too wide) in paragraph at lines 40--41
+[][] 
  []
 
 
-Overfull \hbox (8.53548pt too wide) in paragraph at lines 50--51
- [][] 
+Overfull \hbox (10.30316pt too wide) in paragraph at lines 52--53
+[][] 
  []
 
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 55.
+(Font)              scaled to size 9.0pt on input line 57.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 55.
+(Font)              scaled to size 8.0pt on input line 57.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
-(Font)              scaled to size 8.0pt on input line 55.
+(Font)              scaled to size 8.0pt on input line 57.
 [1
 
 ]) (./cv/ml.tex) (./cv/education.tex
@@ -808,12 +808,12 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 107.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 107.
  ) 
 Here is how much of TeX's memory you used:
- 32037 strings out of 479418
- 633263 string characters out of 5884584
- 1062915 words of memory out of 5000000
- 48986 multiletter control sequences out of 15000+600000
+ 32039 strings out of 479418
+ 633309 string characters out of 5884584
+ 1062935 words of memory out of 5000000
+ 48988 multiletter control sequences out of 15000+600000
  536328 words of font info for 111 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 67i,12n,112p,793b,424s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 67i,12n,112p,793b,482s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on /Users/shriman/Documents/Projects/my_cv_generater/.texpadtmp/cv.pdf (3 pages).

@@ -585,7 +585,9 @@
   \vspace{\acvSectionContentTopSkip}
     \vspace{-2mm}
     \paragraphstyle
+    \begin{enumerate} 
 }{%
+    \end{enumerate}
     \par
     \vspace{1mm}
 }
@@ -593,8 +595,9 @@
 % Define a line of cvpub
 % Usage: \cvpub{<ciation>}
 \newcommand*{\cvpub}[1]{%
-	\leftskip 0.9cm
-    \parindent -0.6cm
+	\item
+%	\leftskip 0.9cm
+   \parindent -0.6cm
     \pubstyle{#1}
 }
 
